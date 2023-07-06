@@ -1,0 +1,379 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    padding:10px 0px 20px 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 3px 4px 2px rgba(0, 0, 0, 0.10);
+   }
+
+.frame-15-frame16{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 100px 20px 0px;
+    /* margin: 10px 0px 25px 3px ; */
+}
+
+.frame-15-frame16, span{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    line-height: 100%;
+}
+
+
+.frame15{
+    flex: 60%;
+}
+
+.frame15-text1{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.frame15-text2, .frame15-text3{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    line-height: 100%;
+}
+
+.frame15-text4{
+    color: #C9C9C9;
+    font-size: 20px;
+    font-family: Jost;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.frame16-text1,
+.frame16-text2,
+.frame16-text3{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    line-height: 100%;
+}
+
+.frame17{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 95px;
+    padding-bottom: 20px;
+}
+
+.frame17-text1{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.frame17-text2{
+    color: #A8A8A8;
+    font-size: 20px;
+    font-family: Jost;
+    line-height: 100%;
+}
+
+.frame17-text3{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    line-height: 100%;
+}
+
+
+
+.frame18{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+}
+
+.frame18-text1{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.frame18-text2{
+    color: #A8A8A8;
+    font-size: 20px;
+    font-family: Jost;
+    line-height: 100%;
+}
+
+.frame18-text3{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    line-height: 100%;
+    padding-left: 26px;
+}
+
+
+.frame-19-frame20{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 100px 20px 0px;
+}
+
+.frame19{
+    flex: 50%;
+}
+
+.frame19-text1{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.frame20-text1{
+    color: #000;
+    font-size: 22px;
+    font-family: Jost;
+    line-height: 100%;
+}
+
+.frame_11,
+.frame_12,
+.frame_13{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    line-height: 100%;
+}
+
+
+.frame-21-frame22{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 100px 20px 0px;
+}
+
+.frame21{
+    flex: 50%;
+}
+
+.frame21-text1{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.frame22-text1{
+    color: #000;
+    font-size: 22px;
+    font-family: Jost;
+    line-height: 100%;
+}
+
+
+.frame-23-frame24{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 100px 20px 0px;
+}
+
+.frame23{
+    flex: 50%;
+}
+
+.frame23-text1{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.frame24-text1{
+    color: #000;
+    font-size: 22px;
+    font-family: Jost;
+    line-height: 100%;
+}
+
+
+.frame-25-frame26{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 100px 20px 0px;
+}
+
+.frame25{
+    flex: 50%;
+}
+
+.frame25-text1{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.frame26-text1{
+    color: #000;
+    font-size: 22px;
+    font-family: Jost;
+    line-height: 100%;
+}
+
+
+.frame-27-frame28{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 100px 20px 0px;
+}
+
+.frame27{
+    flex: 50%;
+}
+
+.frame27-text1{
+    color: #000;
+    font-size: 20px;
+    font-family: Jost;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.frame28-text1{
+    color: #000;
+    font-size: 22px;
+    font-family: Jost;
+    line-height: 100%;
+}
+
+
+
+
+.accordion-menu {
+    display: inline-block;
+    position: relative;
+    margin: 0;
+    transform: translate(0, 0);
+    width: 95%;
+    padding: 20px 25px 0px 25px;
+    border-radius: 5px;
+   }
+   
+   .accordion-arrow1{
+    color: rgba(48, 69, 92, 0.8);
+    position: relative;
+    overflow: hidden;
+    padding: 0px 50px 0px 20px;
+    max-height: 800px;
+    opacity: 1;
+    transform: translate(0, 0);
+    margin-top: 4px;
+    z-index: 2;
+   }
+   ul {
+    list-style: none;
+    perspective: 900;
+    padding: 0 20px 10px;
+      margin: 0;
+      background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 3px 4px 2px rgba(0, 0, 0, 0.10);
+   }
+   ul li {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 4px;
+    padding-top: 18px;
+      border-top: 1px dotted #dce7eb;
+   }
+   
+   ul li:nth-child(1){ border:none; }
+   ul li:nth-of-type(1) { animation-delay: 0.5s; }
+   ul li:nth-of-type(2) { animation-delay: 0.75s; }
+   ul li:nth-of-type(3) { animation-delay: 1.0s; }
+   ul li:last-of-type { padding-bottom: 0; }
+   
+   ul li .arrow {
+    position: absolute;
+    transform: translate(-6px, 0);
+    margin-top: 10px;
+    right: 0;
+   }
+   ul li .arrow:before, ul li .arrow:after {
+    content: "";
+    position: absolute;
+    background-color: #000;
+    width: 3px;
+    height: 9px;
+   }
+   ul li .arrow:before {
+    transform: translate(-2px, 0) rotate(45deg);
+   }
+   ul li .arrow:after {
+    transform: translate(2px, 0) rotate(-45deg);
+   }
+   input[type=checkbox] {
+    position: absolute;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+      z-index: 1;    
+      opacity: 0;
+   }
+   ul li input[type=checkbox]:checked ~.accordion-arrow1 {
+    margin-top: 0;
+    max-height: 0;
+    opacity: 0;
+    transform: translate(0, 50%);
+   }
+   ul li input[type=checkbox]:checked ~ .arrow:before {
+    transform: translate(2px, 0) rotate(45deg);
+   }
+   ul li input[type=checkbox]:checked ~ .arrow:after {
+    transform: translate(-2px, 0) rotate(-45deg);
+   }
+   .transition, p, ul li .arrow:before, ul li .arrow:after {
+    transition: all 0.25s ease-in-out;
+   }
+   
+   .flipIn, h1, ul li {
+    animation: flipdown 0.5s ease both;
+   }
+   
+   @keyframes flipdown {
+    0% {
+      opacity: 0;
+      transform-origin: top center;
+      transform: rotateX(-90deg);
+    }
+   
+    5% { opacity: 1; }
+   
+    80% { transform: rotateX(8deg); }
+   
+    83% { transform: rotateX(6deg); }
+   
+    92% { transform: rotateX(-3deg); }
+   
+    100% {
+      transform-origin: top center;
+      transform: rotateX(0deg);
+    }
+   }
+
