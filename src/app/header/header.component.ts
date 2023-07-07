@@ -28,7 +28,7 @@ export class HeaderComponent implements OnInit {
       ['dim 13/04/2023', 16, 22, 23, 30, 16, 9, ''],
     ]);
     var options={
-      width:900,
+      width:1000,
       height:400,
       isStacked: true,
       legend:{position:'top',maxLines:3}
